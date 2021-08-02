@@ -63,7 +63,7 @@ SPOL
 ## Download model
 - If you want to evaluate the performance of SPOL, please download our trained model
     - CUB-200-2011: [Baidu: tjtn](https://pan.baidu.com/s/17Or64638LaAAGKCNA7zV_g) | [Google](https://drive.google.com/file/d/1jiVhHD2eHsSKwfQ9FFv5rcC7w4lJvlka/view?usp=sharing) , put it into the folder `cub200-seg/out`
-    - ImageNet-1K: [Baidu: poz8](https://pan.baidu.com/s/1oB5CxybU73tiqZYaOpX5-Q) | [Google](https://drive.google.com/file/d/1QLMh0DXdUeD51dtl6iTGtiVFauorHN5p/view?usp=sharing): , put it into the folder `imagenet-seg/out`
+    - ImageNet-1K: [Baidu: poz8](https://pan.baidu.com/s/1oB5CxybU73tiqZYaOpX5-Q) | [Google](https://drive.google.com/file/d/1QLMh0DXdUeD51dtl6iTGtiVFauorHN5p/view?usp=sharing) , put it into the folder `imagenet-seg/out`
 - If you want to train your own model, please download the [pretrained model](https://download.pytorch.org/models/resnet50-19c8e357.pth) into `resource` folder
 
 
